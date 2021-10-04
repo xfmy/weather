@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>day/1.png</file>
+        <file>day/undefined.png</file>
+        <file>day/暴雨.png</file>
+        <file>day/雪.png</file>
+        <file>day/扬沙.png</file>
+        <file>day/阴.png</file>
+        <file>day/雨.png</file>
+        <file>day/阵雪.png</file>
+        <file>day/阵雨.png</file>
+        <file>day/中到大雪.png</file>
+        <file>day/中到大雨.png</file>
+        <file>day/中雪.png</file>
+        <file>day/中雨.png</file>
+        <file>day/大暴雨到特大暴雨.png</file>
+        <file>day/大到暴雪.png</file>
+        <file>day/大到暴雨.png</file>
+        <file>day/大雪.png</file>
+        <file>day/大雨.png</file>
+        <file>day/冻雨.png</file>
+        <file>day/多云.png</file>
+        <file>day/浮沉.png</file>
+        <file>day/霾.png</file>
+        <file>day/强沙尘暴.png</file>
+        <file>day/晴.png</file>
+        <file>day/特大暴雨.png</file>
+        <file>day/雾.png</file>
+        <file>day/小到中雪.png</file>
+        <file>day/小到中雨.png</file>
+        <file>day/小雪.png</file>
+        <file>day/小雨.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/weaUI.png</file>
+        <file>icons/close.ico</file>
+        <file>icons/leaf.ico</file>
+        <file>icons/location.ico</file>
+        <file>icons/refresh.ico</file>
+        <file>icons/search.ico</file>
+        <file>weatherIcons/day/undefined.png</file>
+        <file>weatherIcons/day/大暴雨到特大暴雨.png</file>
+        <file>weatherIcons/day/大到暴雪.png</file>
+        <file>weatherIcons/day/大到暴雨.png</file>
+        <file>weatherIcons/day/强沙尘暴.png</file>
+        <file>weatherIcons/day/特大暴雨.png</file>
+        <file>weatherIcons/day/小到中雪.png</file>
+        <file>weatherIcons/day/小到中雨.png</file>
+        <file>weatherIcons/day/中到大雪.png</file>
+        <file>weatherIcons/day/中到大雨.png</file>
+        <file>yahoo/duoyun.ico</file>
+        <file>yahoo/lei.ico</file>
+        <file>yahoo/qing.ico</file>
+        <file>yahoo/shachen.ico</file>
+        <file>yahoo/wu.ico</file>
+        <file>yahoo/xue.ico</file>
+        <file>yahoo/yin.ico</file>
+        <file>yahoo/yu.ico</file>
+        <file>icons/dw.ico</file>
+    </qresource>
+</RCC>
